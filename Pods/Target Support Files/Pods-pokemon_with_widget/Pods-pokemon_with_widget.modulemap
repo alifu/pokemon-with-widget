@@ -1,0 +1,6 @@
+framework module Pods_pokemon_with_widget {
+  umbrella header "Pods-pokemon_with_widget-umbrella.h"
+
+  export *
+  module * { export * }
+}
