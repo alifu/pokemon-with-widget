@@ -196,11 +196,11 @@
 		8896EB64ED8CFC80AC163832130B347D /* PokemonAPI-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PokemonAPI-umbrella.h"; sourceTree = "<group>"; };
 		89A06DE67B8E1DB42C4D504B1F5F19AC /* Pods-pokemon_with_widgetTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-pokemon_with_widgetTests.modulemap"; sourceTree = "<group>"; };
 		8A71B1EE662B81904BC2CF95679EE49D /* URL+Query.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URL+Query.swift"; path = "PokemonAPI/Utilities/URL+Query.swift"; sourceTree = "<group>"; };
-		8EB35C2DB6CAD8593DDC0E4E5F75D781 /* PokemonAPI */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PokemonAPI; path = PokemonAPI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EB35C2DB6CAD8593DDC0E4E5F75D781 /* PokemonAPI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PokemonAPI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9370BA742E6B24099209DB6AC717DF80 /* Pods-pokemon_with_widgetTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-pokemon_with_widgetTests.release.xcconfig"; sourceTree = "<group>"; };
 		95F0297CB8B52A7F94722E89953B6569 /* NFXSettingsController_iOS.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NFXSettingsController_iOS.swift; path = netfox/iOS/NFXSettingsController_iOS.swift; sourceTree = "<group>"; };
 		97938224986B85B5CB0769452A968086 /* NFXWindowController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NFXWindowController.swift; path = netfox/Core/NFXWindowController.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DDC0DAE973BE0D08E7225CB4E449B34 /* Pods-pokemon_with_widgetTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-pokemon_with_widgetTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9F754AECDB437AE7D625F76EEC3BBBA3 /* Pods-pokemon_with_widget.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-pokemon_with_widget.modulemap"; sourceTree = "<group>"; };
 		A166A98F6B7D758DC683A4C0323F000A /* Pods-pokemon_with_widget-pokemon_with_widgetUITests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-pokemon_with_widget-pokemon_with_widgetUITests"; path = Pods_pokemon_with_widget_pokemon_with_widgetUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -214,7 +214,7 @@
 		B2C9C6C400A96FC207580553FE0D4ECE /* NFXAuthenticationChallengeSender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NFXAuthenticationChallengeSender.swift; path = netfox/Core/NFXAuthenticationChallengeSender.swift; sourceTree = "<group>"; };
 		B71267DD0051F29D2EA7FADAE32222D4 /* Pods-pokemon_with_widget-pokemon_with_widgetUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-pokemon_with_widget-pokemon_with_widgetUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		BDA1AF5FDFAA00CD8FBF2F52C2ACBD42 /* Pagination.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Pagination.swift; path = PokemonAPI/Network/Pagination.swift; sourceTree = "<group>"; };
-		BF1952EA0085A4CE36B4AE041BE60B82 /* netfox */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = netfox; path = netfox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF1952EA0085A4CE36B4AE041BE60B82 /* netfox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = netfox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF61FA100093CCFAE098343EF0DBF819 /* NFXInfoController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NFXInfoController.swift; path = netfox/Core/NFXInfoController.swift; sourceTree = "<group>"; };
 		BFC3203E41A349F3BA138CCD48CB7C9B /* PokemonAPI-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PokemonAPI-dummy.m"; sourceTree = "<group>"; };
 		C011EE424B76D8499D2C85BC31E3FA82 /* URLRequest+.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URLRequest+.swift"; path = "PokemonAPI/Utilities/URLRequest+.swift"; sourceTree = "<group>"; };
@@ -348,7 +348,6 @@
 				97938224986B85B5CB0769452A968086 /* NFXWindowController.swift */,
 				9BC20BC5C634BDD7276324FEEE369678 /* Support Files */,
 			);
-			name = netfox;
 			path = netfox;
 			sourceTree = "<group>";
 		};
@@ -398,7 +397,6 @@
 				3379205FC4E950392CC2E549CF2BD97C /* UtilityService.swift */,
 				D4BC5127ACB434CDA63D3F89C28702BF /* Support Files */,
 			);
-			name = PokemonAPI;
 			path = PokemonAPI;
 			sourceTree = "<group>";
 		};
@@ -413,11 +411,11 @@
 		5F5EF64884EFDFDFA62A84E689957163 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BF1952EA0085A4CE36B4AE041BE60B82 /* netfox */,
+				BF1952EA0085A4CE36B4AE041BE60B82 /* netfox.framework */,
 				60D6C4FCF0D821F3F055979CCAF50996 /* Pods-pokemon_with_widget */,
 				A166A98F6B7D758DC683A4C0323F000A /* Pods-pokemon_with_widget-pokemon_with_widgetUITests */,
 				A8E1014F3A77AFE43AC052695D50D698 /* Pods-pokemon_with_widgetTests */,
-				8EB35C2DB6CAD8593DDC0E4E5F75D781 /* PokemonAPI */,
+				8EB35C2DB6CAD8593DDC0E4E5F75D781 /* PokemonAPI.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -593,7 +591,7 @@
 			);
 			name = netfox;
 			productName = netfox;
-			productReference = BF1952EA0085A4CE36B4AE041BE60B82 /* netfox */;
+			productReference = BF1952EA0085A4CE36B4AE041BE60B82 /* netfox.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		84806A60AD904CE8790AD150CDBF2138 /* Pods-pokemon_with_widget-pokemon_with_widgetUITests */ = {
@@ -651,7 +649,7 @@
 			);
 			name = PokemonAPI;
 			productName = PokemonAPI;
-			productReference = 8EB35C2DB6CAD8593DDC0E4E5F75D781 /* PokemonAPI */;
+			productReference = 8EB35C2DB6CAD8593DDC0E4E5F75D781 /* PokemonAPI.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -661,7 +659,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastUpgradeCheck = 1330;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 13.0";
@@ -920,7 +918,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/PokemonAPI/PokemonAPI-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/PokemonAPI/PokemonAPI-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1234,7 +1232,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/netfox/netfox-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/netfox/netfox-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1269,7 +1267,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/PokemonAPI/PokemonAPI-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/PokemonAPI/PokemonAPI-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1340,7 +1338,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/netfox/netfox-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/netfox/netfox-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
