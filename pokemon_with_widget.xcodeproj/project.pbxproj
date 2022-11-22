@@ -43,6 +43,14 @@
 		073052662927386800F775ED /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 073052542927386700F775ED /* Poppins-LightItalic.ttf */; };
 		073052672927386800F775ED /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 073052552927386800F775ED /* Poppins-Thin.ttf */; };
 		073052682927386800F775ED /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 073052562927386800F775ED /* Poppins-Regular.ttf */; };
+		0730526B292B2AB100F775ED /* TWMiniDashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0730526A292B2AB000F775ED /* TWMiniDashboard.swift */; };
+		0730526D292B2C5E00F775ED /* TWRewardShortcut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0730526C292B2C5E00F775ED /* TWRewardShortcut.swift */; };
+		0730526F292B60D100F775ED /* TWDailyCheckIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0730526E292B60D100F775ED /* TWDailyCheckIn.swift */; };
+		07305271292B60E500F775ED /* TWMediumDashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07305270292B60E500F775ED /* TWMediumDashboard.swift */; };
+		07305273292B75FB00F775ED /* TimelineProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07305272292B75FB00F775ED /* TimelineProvider.swift */; };
+		07305275292B767D00F775ED /* TimelineEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07305274292B767D00F775ED /* TimelineEntry.swift */; };
+		077D534C292C768900411CA2 /* TWSearchPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 077D534B292C768900411CA2 /* TWSearchPackage.swift */; };
+		07DF1418292C743200DB286C /* TWLargeDashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DF1417292C743200DB286C /* TWLargeDashboard.swift */; };
 		1034A52EA2023370C93962B9 /* Pods_pokemon_with_widget_pokemon_with_widgetUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCA67CA0C7C5C3BB5DA43A7F /* Pods_pokemon_with_widget_pokemon_with_widgetUITests.framework */; };
 		2FA9CBF2CAFA3DDE69E10061 /* Pods_pokemon_with_widget.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AC11CC609F8DAAAB7214C25 /* Pods_pokemon_with_widget.framework */; };
 		A025194F29062DD200641BF8 /* SwipeableCardViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = A025194E29062DD200641BF8 /* SwipeableCardViewDataSource.swift */; };
@@ -92,7 +100,7 @@
 /* Begin PBXCopyFilesBuildPhase section */
 		A04A4B9628FFD2C100F21AAF /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 12;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
@@ -140,6 +148,14 @@
 		073052542927386700F775ED /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
 		073052552927386800F775ED /* Poppins-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Thin.ttf"; sourceTree = "<group>"; };
 		073052562927386800F775ED /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		0730526A292B2AB000F775ED /* TWMiniDashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TWMiniDashboard.swift; sourceTree = "<group>"; };
+		0730526C292B2C5E00F775ED /* TWRewardShortcut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TWRewardShortcut.swift; sourceTree = "<group>"; };
+		0730526E292B60D100F775ED /* TWDailyCheckIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TWDailyCheckIn.swift; sourceTree = "<group>"; };
+		07305270292B60E500F775ED /* TWMediumDashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TWMediumDashboard.swift; sourceTree = "<group>"; };
+		07305272292B75FB00F775ED /* TimelineProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineProvider.swift; sourceTree = "<group>"; };
+		07305274292B767D00F775ED /* TimelineEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineEntry.swift; sourceTree = "<group>"; };
+		077D534B292C768900411CA2 /* TWSearchPackage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TWSearchPackage.swift; sourceTree = "<group>"; };
+		07DF1417292C743200DB286C /* TWLargeDashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TWLargeDashboard.swift; sourceTree = "<group>"; };
 		1A573D8C8D77D0FE080547AC /* Pods-pokemon_with_widgetTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokemon_with_widgetTests.debug.xcconfig"; path = "Target Support Files/Pods-pokemon_with_widgetTests/Pods-pokemon_with_widgetTests.debug.xcconfig"; sourceTree = "<group>"; };
 		2AD1CA4CDBCE611B0AE610F1 /* Pods-pokemon_with_widget.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokemon_with_widget.debug.xcconfig"; path = "Target Support Files/Pods-pokemon_with_widget/Pods-pokemon_with_widget.debug.xcconfig"; sourceTree = "<group>"; };
 		30274913C57AA055CA1CAB99 /* Pods-pokemon_with_widget-pokemon_with_widgetUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokemon_with_widget-pokemon_with_widgetUITests.release.xcconfig"; path = "Target Support Files/Pods-pokemon_with_widget-pokemon_with_widgetUITests/Pods-pokemon_with_widget-pokemon_with_widgetUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -267,6 +283,19 @@
 			path = Fonts;
 			sourceTree = "<group>";
 		};
+		07305269292B288C00F775ED /* WidgetInterface */ = {
+			isa = PBXGroup;
+			children = (
+				0730526A292B2AB000F775ED /* TWMiniDashboard.swift */,
+				0730526C292B2C5E00F775ED /* TWRewardShortcut.swift */,
+				0730526E292B60D100F775ED /* TWDailyCheckIn.swift */,
+				07305270292B60E500F775ED /* TWMediumDashboard.swift */,
+				07DF1417292C743200DB286C /* TWLargeDashboard.swift */,
+				077D534B292C768900411CA2 /* TWSearchPackage.swift */,
+			);
+			path = WidgetInterface;
+			sourceTree = "<group>";
+		};
 		24031FF2675AD8EAEF103171 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -348,11 +377,14 @@
 		A04A4B8A28FFD2C000F21AAF /* pokemonWidget */ = {
 			isa = PBXGroup;
 			children = (
-				073052442927385500F775ED /* Fonts */,
+				07305269292B288C00F775ED /* WidgetInterface */,
 				A04A4B8B28FFD2C000F21AAF /* pokemonWidget.swift */,
 				A04A4B8D28FFD2C000F21AAF /* pokemonWidget.intentdefinition */,
 				A04A4B8E28FFD2C100F21AAF /* Assets.xcassets */,
 				A04A4B9028FFD2C100F21AAF /* Info.plist */,
+				073052442927385500F775ED /* Fonts */,
+				07305272292B75FB00F775ED /* TimelineProvider.swift */,
+				07305274292B767D00F775ED /* TimelineEntry.swift */,
 			);
 			path = pokemonWidget;
 			sourceTree = "<group>";
@@ -704,8 +736,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07DF1418292C743200DB286C /* TWLargeDashboard.swift in Sources */,
 				A04A4B9128FFD2C100F21AAF /* pokemonWidget.intentdefinition in Sources */,
+				0730526D292B2C5E00F775ED /* TWRewardShortcut.swift in Sources */,
+				07305273292B75FB00F775ED /* TimelineProvider.swift in Sources */,
+				0730526F292B60D100F775ED /* TWDailyCheckIn.swift in Sources */,
+				0730526B292B2AB100F775ED /* TWMiniDashboard.swift in Sources */,
+				07305271292B60E500F775ED /* TWMediumDashboard.swift in Sources */,
 				A04A4B8C28FFD2C000F21AAF /* pokemonWidget.swift in Sources */,
+				07305275292B767D00F775ED /* TimelineEntry.swift in Sources */,
+				077D534C292C768900411CA2 /* TWSearchPackage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
